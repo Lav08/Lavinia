@@ -1,2 +1,2 @@
 # Lavinia
-pi
+Proiect individual
